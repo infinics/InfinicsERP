@@ -1,0 +1,76 @@
+.app-logo {
+	width: 90px !important;}
+
+
+/*To hide the Help dropdown button */
+.navbar-right .dropdown-help {
+	display:none}
+/*End hide Help dropdown button */
+
+/*Icons for Desk*/
+.icon{
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    vertical-align: bottom;
+    background-size: contain !important;}
+.start-blue{
+   background: url(/assets/infinicserp/images/desk-icons/start.png)}
+.accounting-blue{
+   background: url(/assets/infinicserp/images/desk-icons/accounting.png)}	
+.buying-blue{
+   background: url(/assets/infinicserp/images/desk-icons/buying.png)}
+.selling-blue{
+   background: url(/assets/infinicserp/images/desk-icons/selling.png)}
+.stock-blue{
+   background: url(/assets/infinicserp/images/desk-icons/stock.png)}
+.assets-blue{
+   background: url(/assets/infinicserp/images/desk-icons/assets.png)}
+.projects-blue{
+   background: url(/assets/infinicserp/images/desk-icons/projects.png)}
+.crm-blue{
+   background: url(/assets/infinicserp/images/desk-icons/crm.png)}
+.support-blue{
+   background: url(/assets/infinicserp/images/desk-icons/support.png)}
+.hr-blue{
+   background: url(/assets/infinicserp/images/desk-icons/hr.png)}
+.quality-blue{
+   background: url(/assets/infinicserp/images/desk-icons/quality.png)}
+.website-blue{
+   background: url(/assets/infinicserp/images/desk-icons/website.png)}
+.social-blue{
+   background: url(/assets/infinicserp/images/desk-icons/social.png)}
+.dashboard-blue{
+   background: url(/assets/infinicserp/images/desk-icons/dashboard.png)}
+.marketplace-blue{
+   background: url(/assets/infinicserp/images/desk-icons/marketplace.png)}
+.tools-blue{
+   background: url(/assets/infinicserp/images/desk-icons/tools.png)}
+.settings-blue{
+   background: url(/assets/infinicserp/images/desk-icons/settings.png)}
+.users-blue{
+   background: url(/assets/infinicserp/images/desk-icons/users.png)}
+.customize-blue{
+   background: url(/assets/infinicserp/images/desk-icons/customize.png)}
+.integrate-blue{
+   background: url(/assets/infinicserp/images/desk-icons/integrate.png)}
+.developer-blue{
+   background: url(/assets/infinicserp/images/desk-icons/developer.png)}
+.learn-blue{
+   background: url(/assets/infinicserp/images/desk-icons/learn.png)}
+.manufacture-blue{
+   background: url(/assets/infinicserp/images/desk-icons/manufacture.png)}
+.retail-blue{
+   background: url(/assets/infinicserp/images/desk-icons/retail.png)}
+.education-blue{
+   background: url(/assets/infinicserp/images/desk-icons/education.png)}
+.healthcare-blue{
+   background: url(/assets/infinicserp/images/desk-icons/healthcare.png)}
+.agriculture-blue{
+   background: url(/assets/infinicserp/images/desk-icons/agriculture.png)}
+.non-profit-blue{
+   background: url(/assets/infinicserp/images/desk-icons/charity.png)}
+
+
+
+

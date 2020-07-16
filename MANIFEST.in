@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include infinicserp *.css
+recursive-include infinicserp *.csv
+recursive-include infinicserp *.html
+recursive-include infinicserp *.ico
+recursive-include infinicserp *.js
+recursive-include infinicserp *.json
+recursive-include infinicserp *.md
+recursive-include infinicserp *.png
+recursive-include infinicserp *.py
+recursive-include infinicserp *.svg
+recursive-include infinicserp *.txt
+recursive-exclude infinicserp *.pyc
