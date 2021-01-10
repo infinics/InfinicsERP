@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2020-11-25 15:47:39.656692",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2020-11-25 15:52:59.644526",
+ "modified_by": "Administrator",
+ "module": "Infinics ERP",
+ "name": "new-page-name",
+ "owner": "Administrator",
+ "page_name": "New Page Name",
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 1,
+ "title": "New Page Name"
+}

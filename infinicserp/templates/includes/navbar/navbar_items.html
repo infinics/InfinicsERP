@@ -1,0 +1,15 @@
+
+{% extends 'frappe/templates/includes/navbar/navbar_items.html' %}
+
+{% block navbar_right_extension %}
+<a href="https://facebook.com/Infinics"target="_blank"><img src="/files/social-icons/facebook.png"></a>
+<a href="https://twitter.com/infinicsIT"target="_blank"><img src="/files/social-icons/twitter.png"></a>
+<a href="https://www.linkedin.com/company/infinics-it"target="_blank"><img src="/files/social-icons/linkedin.png"></a>
+
+	<li class="shopping-cart cart-icon hidden">
+		<a href="/cart" class="nav-link">
+			{{ _("Cart") }}
+			<span class="badge badge-primary" id="cart-count"></span>
+		</a>
+	 </li>
+{% endblock %}

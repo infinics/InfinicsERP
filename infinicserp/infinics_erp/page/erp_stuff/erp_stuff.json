@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2020-11-25 15:56:33.053261",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2020-11-25 15:56:33.053261",
+ "modified_by": "Administrator",
+ "module": "Infinics ERP",
+ "name": "erp-stuff",
+ "owner": "Administrator",
+ "page_name": "ERP Stuff",
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "ERP Stuff"
+}

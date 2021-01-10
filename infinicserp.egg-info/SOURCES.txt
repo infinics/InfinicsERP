@@ -18,6 +18,14 @@ infinicserp/config/__init__.py
 infinicserp/config/desktop.py
 infinicserp/config/docs.py
 infinicserp/infinics_erp/__init__.py
+infinicserp/infinics_erp/page/__init__.py
+infinicserp/infinics_erp/page/erp_stuff/__init__.py
+infinicserp/infinics_erp/page/erp_stuff/erp_stuff.js
+infinicserp/infinics_erp/page/erp_stuff/erp_stuff.json
+infinicserp/infinics_erp/page/new_page_name/__init__.py
+infinicserp/infinics_erp/page/new_page_name/new_page_name.js
+infinicserp/infinics_erp/page/new_page_name/new_page_name.json
+infinicserp/public/css/bootstrap.css
 infinicserp/public/css/infinicserp.css
 infinicserp/public/images/desk-icons/accounting.png
 infinicserp/public/images/desk-icons/agriculture.png
