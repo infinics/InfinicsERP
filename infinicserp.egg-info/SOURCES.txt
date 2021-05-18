@@ -74,6 +74,8 @@ infinicserp/public/images/erp-logos/leaflet/spritesheet-2x.png
 infinicserp/public/images/erp-logos/leaflet/spritesheet.png
 infinicserp/public/images/erp-logos/leaflet/spritesheet.svg
 infinicserp/public/js/.js
+infinicserp/public/js/hide_help_menu.js
+infinicserp/public/js/frappe/ui/toolbar/navbar.html
 infinicserp/setup/__init__.py
 infinicserp/setup/default_energy_point_rules.py
 infinicserp/setup/default_success_action.py
@@ -281,9 +283,13 @@ infinicserp/setup/setup_wizard/tasks/school_import_data.md
 infinicserp/setup/setup_wizard/tasks/task_alert.json
 infinicserp/templates/__init__.py
 infinicserp/templates/includes/footer/footer.html
+infinicserp/templates/includes/footer/footerBACKUP.html
+infinicserp/templates/includes/footer/footer_extension.html
+infinicserp/templates/includes/footer/footer_items.html
 infinicserp/templates/includes/footer/footer_powered.html
 infinicserp/templates/pages/__init__.py
 infinicserp/templates/pages/demo.html
+infinicserp/templates/pages/home.css
 infinicserp/templates/pages/home.html
 infinicserp/templates/pages/__pycache__/__init__.py
 infinicserp/www/__init__.py
